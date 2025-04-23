@@ -1,0 +1,11 @@
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\StrategyTipoEnvio.Services\bin\Debug\net9.0\StrategyTipoEnvio.Services.deps.json
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\StrategyTipoEnvio.Services\bin\Debug\net9.0\StrategyTipoEnvio.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\StrategyTipoEnvio.Services\bin\Debug\net9.0\StrategyTipoEnvio.Services.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\StrategyTipoEnvio.Services\obj\Debug\net9.0\StrategyTipoEnvio.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\StrategyTipoEnvio.Services\obj\Debug\net9.0\StrategyTipoEnvio.Services.AssemblyInfoInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\StrategyTipoEnvio.Services\obj\Debug\net9.0\StrategyTipoEnvio.Services.AssemblyInfo.cs
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\StrategyTipoEnvio.Services\obj\Debug\net9.0\StrategyTipoEnvio.Services.csproj.CoreCompileInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\StrategyTipoEnvio.Services\obj\Debug\net9.0\StrategyTipoEnvio.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\StrategyTipoEnvio.Services\obj\Debug\net9.0\refint\StrategyTipoEnvio.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\StrategyTipoEnvio.Services\obj\Debug\net9.0\StrategyTipoEnvio.Services.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\StrategyTipoEnvio.Services\obj\Debug\net9.0\ref\StrategyTipoEnvio.Services.dll

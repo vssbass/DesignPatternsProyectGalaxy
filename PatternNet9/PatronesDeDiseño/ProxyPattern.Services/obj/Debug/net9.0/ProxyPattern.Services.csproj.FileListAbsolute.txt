@@ -1,0 +1,11 @@
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\ProxyPattern.Services\bin\Debug\net9.0\ProxyPattern.Services.deps.json
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\ProxyPattern.Services\bin\Debug\net9.0\ProxyPattern.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\ProxyPattern.Services\bin\Debug\net9.0\ProxyPattern.Services.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\ProxyPattern.Services\obj\Debug\net9.0\ProxyPattern.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\ProxyPattern.Services\obj\Debug\net9.0\ProxyPattern.Services.AssemblyInfoInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\ProxyPattern.Services\obj\Debug\net9.0\ProxyPattern.Services.AssemblyInfo.cs
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\ProxyPattern.Services\obj\Debug\net9.0\ProxyPattern.Services.csproj.CoreCompileInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\ProxyPattern.Services\obj\Debug\net9.0\ProxyPattern.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\ProxyPattern.Services\obj\Debug\net9.0\refint\ProxyPattern.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\ProxyPattern.Services\obj\Debug\net9.0\ProxyPattern.Services.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\ProxyPattern.Services\obj\Debug\net9.0\ref\ProxyPattern.Services.dll

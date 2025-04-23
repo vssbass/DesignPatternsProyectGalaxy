@@ -1,0 +1,11 @@
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\BuildCreadorUsuarios.Services\bin\Debug\net9.0\BuildCreadorUsuarios.Services.deps.json
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\BuildCreadorUsuarios.Services\bin\Debug\net9.0\BuildCreadorUsuarios.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\BuildCreadorUsuarios.Services\bin\Debug\net9.0\BuildCreadorUsuarios.Services.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\BuildCreadorUsuarios.Services\obj\Debug\net9.0\BuildCreadorUsuarios.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\BuildCreadorUsuarios.Services\obj\Debug\net9.0\BuildCreadorUsuarios.Services.AssemblyInfoInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\BuildCreadorUsuarios.Services\obj\Debug\net9.0\BuildCreadorUsuarios.Services.AssemblyInfo.cs
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\BuildCreadorUsuarios.Services\obj\Debug\net9.0\BuildCreadorUsuarios.Services.csproj.CoreCompileInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\BuildCreadorUsuarios.Services\obj\Debug\net9.0\BuildCreadorUsuarios.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\BuildCreadorUsuarios.Services\obj\Debug\net9.0\refint\BuildCreadorUsuarios.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\BuildCreadorUsuarios.Services\obj\Debug\net9.0\BuildCreadorUsuarios.Services.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\BuildCreadorUsuarios.Services\obj\Debug\net9.0\ref\BuildCreadorUsuarios.Services.dll

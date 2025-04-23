@@ -1,0 +1,110 @@
+[
+  {
+    "ContainingType": "PatronesDeDise\u00F1o.Web.Controllers.BuildUserController",
+    "Method": "Createuser",
+    "RelativePath": "apiBuildPattern/BuildUser/Index",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Edad",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Nombres",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Apellidos",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Rol",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PatronesDeDise\u00F1o.Web.Controllers.PrototypeContrato",
+    "Method": "Index",
+    "RelativePath": "apiPrototype/PrototypeContrato/Contrato",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TipoDocumento",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "NumeroDocumento",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "NombresApellidos",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Direccion",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Telefono",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SingletonContadorAcciones.Controllers.SingletonContadorController",
+    "Method": "Index",
+    "RelativePath": "apiThreadSingleton/SingletonContador/Index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SingletonContadorAcciones.Controllers.SingletonContadorController",
+    "Method": "Obtener",
+    "RelativePath": "apiThreadSingleton/SingletonContador/VisitasCount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SingletonContadorAcciones.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[SingletonContadorAcciones.WeatherForecast, PatronesDeDise\u00F1o.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

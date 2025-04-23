@@ -1,0 +1,11 @@
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\CommandPattern.Services\bin\Debug\net9.0\CommandPattern.Services.deps.json
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\CommandPattern.Services\bin\Debug\net9.0\CommandPattern.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\CommandPattern.Services\bin\Debug\net9.0\CommandPattern.Services.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\CommandPattern.Services\obj\Debug\net9.0\CommandPattern.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\CommandPattern.Services\obj\Debug\net9.0\CommandPattern.Services.AssemblyInfoInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\CommandPattern.Services\obj\Debug\net9.0\CommandPattern.Services.AssemblyInfo.cs
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\CommandPattern.Services\obj\Debug\net9.0\CommandPattern.Services.csproj.CoreCompileInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\CommandPattern.Services\obj\Debug\net9.0\CommandPattern.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\CommandPattern.Services\obj\Debug\net9.0\refint\CommandPattern.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\CommandPattern.Services\obj\Debug\net9.0\CommandPattern.Services.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\CommandPattern.Services\obj\Debug\net9.0\ref\CommandPattern.Services.dll

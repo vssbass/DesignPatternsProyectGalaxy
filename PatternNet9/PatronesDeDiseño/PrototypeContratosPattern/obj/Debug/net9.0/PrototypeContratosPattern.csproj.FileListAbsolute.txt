@@ -1,0 +1,11 @@
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\PrototypeContratosPattern\obj\Debug\net9.0\PrototypeContratosPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\PrototypeContratosPattern\obj\Debug\net9.0\PrototypeContratosPattern.AssemblyInfoInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\PrototypeContratosPattern\obj\Debug\net9.0\PrototypeContratosPattern.AssemblyInfo.cs
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\PrototypeContratosPattern\obj\Debug\net9.0\PrototypeContratosPattern.csproj.CoreCompileInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\PrototypeContratosPattern\bin\Debug\net9.0\PrototypeContratosPattern.deps.json
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\PrototypeContratosPattern\bin\Debug\net9.0\PrototypeContratosPattern.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\PrototypeContratosPattern\bin\Debug\net9.0\PrototypeContratosPattern.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\PrototypeContratosPattern\obj\Debug\net9.0\PrototypeContratosPattern.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\PrototypeContratosPattern\obj\Debug\net9.0\refint\PrototypeContratosPattern.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\PrototypeContratosPattern\obj\Debug\net9.0\PrototypeContratosPattern.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\PrototypeContratosPattern\obj\Debug\net9.0\ref\PrototypeContratosPattern.dll

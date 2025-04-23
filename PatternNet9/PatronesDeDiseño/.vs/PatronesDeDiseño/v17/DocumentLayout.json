@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F385754E-424F-4C60-9176-73E1ED888EAE}|PatronesEstructurales\\PatronesEstructurales.csproj|c:\\cursogalaxy\\patternnet9\\patronesdedise\u00F1o\\patronesestructurales\\controllers\\saludoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F385754E-424F-4C60-9176-73E1ED888EAE}|PatronesEstructurales\\PatronesEstructurales.csproj|solutionrelative:patronesestructurales\\controllers\\saludoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E82C75-9E0C-43B6-93FF-90B7B70E93E5}|ProxyPattern.Services\\ProxyPattern.Services.csproj|c:\\cursogalaxy\\patternnet9\\patronesdedise\u00F1o\\proxypattern.services\\generadorreporteproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E82C75-9E0C-43B6-93FF-90B7B70E93E5}|ProxyPattern.Services\\ProxyPattern.Services.csproj|solutionrelative:proxypattern.services\\generadorreporteproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7E82C75-9E0C-43B6-93FF-90B7B70E93E5}|ProxyPattern.Services\\ProxyPattern.Services.csproj|c:\\cursogalaxy\\patternnet9\\patronesdedise\u00F1o\\proxypattern.services\\generadorreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7E82C75-9E0C-43B6-93FF-90B7B70E93E5}|ProxyPattern.Services\\ProxyPattern.Services.csproj|solutionrelative:proxypattern.services\\generadorreportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F385754E-424F-4C60-9176-73E1ED888EAE}|PatronesEstructurales\\PatronesEstructurales.csproj|c:\\cursogalaxy\\patternnet9\\patronesdedise\u00F1o\\patronesestructurales\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F385754E-424F-4C60-9176-73E1ED888EAE}|PatronesEstructurales\\PatronesEstructurales.csproj|solutionrelative:patronesestructurales\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F385754E-424F-4C60-9176-73E1ED888EAE}|PatronesEstructurales\\PatronesEstructurales.csproj|c:\\cursogalaxy\\patternnet9\\patronesdedise\u00F1o\\patronesestructurales\\controllers\\impresoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F385754E-424F-4C60-9176-73E1ED888EAE}|PatronesEstructurales\\PatronesEstructurales.csproj|solutionrelative:patronesestructurales\\controllers\\impresoracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD04581E-F104-4B67-ACAF-C486737600CA}|PatronesDeComportamiento\\PatronesDeComportamiento.csproj|c:\\cursogalaxy\\patternnet9\\patronesdedise\u00F1o\\patronesdecomportamiento\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD04581E-F104-4B67-ACAF-C486737600CA}|PatronesDeComportamiento\\PatronesDeComportamiento.csproj|solutionrelative:patronesdecomportamiento\\controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4176AFCD-0209-44A8-90F2-835F366D6783}|SingletonContadorAcciones\\PatronesDeDise\u00F1o.Web.csproj|c:\\cursogalaxy\\patternnet9\\patronesdedise\u00F1o\\singletoncontadoracciones\\controllers\\prototypecontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4176AFCD-0209-44A8-90F2-835F366D6783}|SingletonContadorAcciones\\PatronesDeDise\u00F1o.Web.csproj|solutionrelative:singletoncontadoracciones\\controllers\\prototypecontrato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4176AFCD-0209-44A8-90F2-835F366D6783}|SingletonContadorAcciones\\PatronesDeDise\u00F1o.Web.csproj|c:\\cursogalaxy\\patternnet9\\patronesdedise\u00F1o\\singletoncontadoracciones\\controllers\\buildusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4176AFCD-0209-44A8-90F2-835F366D6783}|SingletonContadorAcciones\\PatronesDeDise\u00F1o.Web.csproj|solutionrelative:singletoncontadoracciones\\controllers\\buildusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FD330C-C98E-4E1B-9E18-73165B02B7D5}|AdapterImpresora.Services\\AdapterImpresora.Services.csproj|c:\\cursogalaxy\\patternnet9\\patronesdedise\u00F1o\\adapterimpresora.services\\impresoranikonadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FD330C-C98E-4E1B-9E18-73165B02B7D5}|AdapterImpresora.Services\\AdapterImpresora.Services.csproj|solutionrelative:adapterimpresora.services\\impresoranikonadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887C8E64-9C86-402C-A18A-8F0340DEE38D}|PrototypeContratosPattern\\PrototypeContratosPattern.csproj|c:\\cursogalaxy\\patternnet9\\patronesdedise\u00F1o\\prototypecontratospattern\\contratoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887C8E64-9C86-402C-A18A-8F0340DEE38D}|PrototypeContratosPattern\\PrototypeContratosPattern.csproj|solutionrelative:prototypecontratospattern\\contratoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SaludosController.cs",
+              "DocumentMoniker": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\PatronesEstructurales\\Controllers\\SaludosController.cs",
+              "RelativeDocumentMoniker": "PatronesEstructurales\\Controllers\\SaludosController.cs",
+              "ToolTip": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\PatronesEstructurales\\Controllers\\SaludosController.cs",
+              "RelativeToolTip": "PatronesEstructurales\\Controllers\\SaludosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:54:41.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneradorReportes.cs",
+              "DocumentMoniker": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\ProxyPattern.Services\\GeneradorReportes.cs",
+              "RelativeDocumentMoniker": "ProxyPattern.Services\\GeneradorReportes.cs",
+              "ToolTip": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\ProxyPattern.Services\\GeneradorReportes.cs",
+              "RelativeToolTip": "ProxyPattern.Services\\GeneradorReportes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:53:13.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImpresoraController.cs",
+              "DocumentMoniker": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\PatronesEstructurales\\Controllers\\ImpresoraController.cs",
+              "RelativeDocumentMoniker": "PatronesEstructurales\\Controllers\\ImpresoraController.cs",
+              "ToolTip": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\PatronesEstructurales\\Controllers\\ImpresoraController.cs",
+              "RelativeToolTip": "PatronesEstructurales\\Controllers\\ImpresoraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:53:09.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BuildUserController.cs",
+              "DocumentMoniker": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\SingletonContadorAcciones\\Controllers\\BuildUserController.cs",
+              "RelativeDocumentMoniker": "SingletonContadorAcciones\\Controllers\\BuildUserController.cs",
+              "ToolTip": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\SingletonContadorAcciones\\Controllers\\BuildUserController.cs",
+              "RelativeToolTip": "SingletonContadorAcciones\\Controllers\\BuildUserController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:44:22.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImpresoranikonAdapter.cs",
+              "DocumentMoniker": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\AdapterImpresora.Services\\ImpresoranikonAdapter.cs",
+              "RelativeDocumentMoniker": "AdapterImpresora.Services\\ImpresoranikonAdapter.cs",
+              "ToolTip": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\AdapterImpresora.Services\\ImpresoranikonAdapter.cs",
+              "RelativeToolTip": "AdapterImpresora.Services\\ImpresoranikonAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:26:36.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneradorReporteProxy.cs",
+              "DocumentMoniker": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\ProxyPattern.Services\\GeneradorReporteProxy.cs",
+              "RelativeDocumentMoniker": "ProxyPattern.Services\\GeneradorReporteProxy.cs",
+              "ToolTip": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\ProxyPattern.Services\\GeneradorReporteProxy.cs",
+              "RelativeToolTip": "ProxyPattern.Services\\GeneradorReporteProxy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:32:12.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\PatronesEstructurales\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "PatronesEstructurales\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\PatronesEstructurales\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "PatronesEstructurales\\Controllers\\ReporteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:31:31.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PedidosController.cs",
+              "DocumentMoniker": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\PatronesDeComportamiento\\Controllers\\PedidosController.cs",
+              "RelativeDocumentMoniker": "PatronesDeComportamiento\\Controllers\\PedidosController.cs",
+              "ToolTip": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\PatronesDeComportamiento\\Controllers\\PedidosController.cs",
+              "RelativeToolTip": "PatronesDeComportamiento\\Controllers\\PedidosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:28:05.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContratoServices.cs",
+              "DocumentMoniker": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\PrototypeContratosPattern\\ContratoServices.cs",
+              "RelativeDocumentMoniker": "PrototypeContratosPattern\\ContratoServices.cs",
+              "ToolTip": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\PrototypeContratosPattern\\ContratoServices.cs",
+              "RelativeToolTip": "PrototypeContratosPattern\\ContratoServices.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwDQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:25:20.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrototypeContrato.cs",
+              "DocumentMoniker": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\SingletonContadorAcciones\\Controllers\\PrototypeContrato.cs",
+              "RelativeDocumentMoniker": "SingletonContadorAcciones\\Controllers\\PrototypeContrato.cs",
+              "ToolTip": "C:\\CursoGalaxy\\PatternNet9\\PatronesDeDise\u00F1o\\SingletonContadorAcciones\\Controllers\\PrototypeContrato.cs",
+              "RelativeToolTip": "SingletonContadorAcciones\\Controllers\\PrototypeContrato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:24:32.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

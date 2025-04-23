@@ -1,0 +1,96 @@
+[
+  {
+    "ContainingType": "PatronesDeComportamiento.Controllers.CarritoController",
+    "Method": "AgregarProducto",
+    "RelativePath": "apiCommand/Carrito/agregar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "producto",
+        "Type": "CommandPattern.Services.Producto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PatronesDeComportamiento.Controllers.CarritoController",
+    "Method": "Deshacer",
+    "RelativePath": "apiCommand/Carrito/deshacer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PatronesDeComportamiento.Controllers.CarritoController",
+    "Method": "ObtenerProductos",
+    "RelativePath": "apiCommand/Carrito/productos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PatronesDeComportamiento.Controllers.EnvioController",
+    "Method": "Index",
+    "RelativePath": "apiStrategy/Envio/Envios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "peso",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      },
+      {
+        "Name": "destino",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PatronesDeComportamiento.Controllers.PedidosController",
+    "Method": "Index",
+    "RelativePath": "apiTemplateMethod/Pedidos/template",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pedidoRequest",
+        "Type": "PatronesDeComportamiento.Controllers.PedidoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PatronesDeComportamiento.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[PatronesDeComportamiento.WeatherForecast, PatronesDeComportamiento, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

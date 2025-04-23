@@ -1,0 +1,11 @@
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\DecoratorPattern.Services\obj\Debug\net9.0\DecoratorPattern.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\DecoratorPattern.Services\obj\Debug\net9.0\DecoratorPattern.Services.AssemblyInfoInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\DecoratorPattern.Services\obj\Debug\net9.0\DecoratorPattern.Services.AssemblyInfo.cs
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\DecoratorPattern.Services\obj\Debug\net9.0\DecoratorPattern.Services.csproj.CoreCompileInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\DecoratorPattern.Services\bin\Debug\net9.0\DecoratorPattern.Services.deps.json
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\DecoratorPattern.Services\bin\Debug\net9.0\DecoratorPattern.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\DecoratorPattern.Services\bin\Debug\net9.0\DecoratorPattern.Services.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\DecoratorPattern.Services\obj\Debug\net9.0\DecoratorPattern.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\DecoratorPattern.Services\obj\Debug\net9.0\refint\DecoratorPattern.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\DecoratorPattern.Services\obj\Debug\net9.0\DecoratorPattern.Services.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\DecoratorPattern.Services\obj\Debug\net9.0\ref\DecoratorPattern.Services.dll

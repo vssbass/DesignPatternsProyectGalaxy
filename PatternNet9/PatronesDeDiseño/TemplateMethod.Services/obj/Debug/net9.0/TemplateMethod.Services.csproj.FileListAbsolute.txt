@@ -1,0 +1,11 @@
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\TemplateMethod.Services\obj\Debug\net9.0\TemplateMethod.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\TemplateMethod.Services\obj\Debug\net9.0\TemplateMethod.Services.AssemblyInfoInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\TemplateMethod.Services\obj\Debug\net9.0\TemplateMethod.Services.AssemblyInfo.cs
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\TemplateMethod.Services\obj\Debug\net9.0\TemplateMethod.Services.csproj.CoreCompileInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\TemplateMethod.Services\bin\Debug\net9.0\TemplateMethod.Services.deps.json
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\TemplateMethod.Services\bin\Debug\net9.0\TemplateMethod.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\TemplateMethod.Services\bin\Debug\net9.0\TemplateMethod.Services.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\TemplateMethod.Services\obj\Debug\net9.0\TemplateMethod.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\TemplateMethod.Services\obj\Debug\net9.0\refint\TemplateMethod.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\TemplateMethod.Services\obj\Debug\net9.0\TemplateMethod.Services.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\TemplateMethod.Services\obj\Debug\net9.0\ref\TemplateMethod.Services.dll

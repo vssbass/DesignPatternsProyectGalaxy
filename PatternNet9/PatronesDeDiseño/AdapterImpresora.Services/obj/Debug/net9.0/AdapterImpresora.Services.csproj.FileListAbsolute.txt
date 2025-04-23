@@ -1,0 +1,11 @@
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\AdapterImpresora.Services\bin\Debug\net9.0\AdapterImpresora.Services.deps.json
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\AdapterImpresora.Services\bin\Debug\net9.0\AdapterImpresora.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\AdapterImpresora.Services\bin\Debug\net9.0\AdapterImpresora.Services.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\AdapterImpresora.Services\obj\Debug\net9.0\AdapterImpresora.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\AdapterImpresora.Services\obj\Debug\net9.0\AdapterImpresora.Services.AssemblyInfoInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\AdapterImpresora.Services\obj\Debug\net9.0\AdapterImpresora.Services.AssemblyInfo.cs
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\AdapterImpresora.Services\obj\Debug\net9.0\AdapterImpresora.Services.csproj.CoreCompileInputs.cache
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\AdapterImpresora.Services\obj\Debug\net9.0\AdapterImpresora.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\AdapterImpresora.Services\obj\Debug\net9.0\refint\AdapterImpresora.Services.dll
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\AdapterImpresora.Services\obj\Debug\net9.0\AdapterImpresora.Services.pdb
+C:\CursoGalaxy\PatternNet9\PatronesDeDiseño\AdapterImpresora.Services\obj\Debug\net9.0\ref\AdapterImpresora.Services.dll
