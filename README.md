@@ -1,0 +1,2 @@
+# DesignPatternsProyectGalaxy
+ejemplos de patrones
